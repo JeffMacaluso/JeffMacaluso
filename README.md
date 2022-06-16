@@ -2,12 +2,12 @@
 
 This is my github repo where I keep some of my personal projects and presentations while exploring various topics in Data science.![](https://komarev.com/ghpvc/?username=JeffMacaluso&style=flat-square)
 
-- 🔭 I’m currently working on: fun data science projects on products at Microsoft
-- 🌱 I’m currently learning: astronomy, psychology, environmental science, and network theory
-- 👯 I’m looking to collaborate on: pro-environmental or social justice projects
-- 💬 Ask me about: Anything
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: My home office is a treehouse (this makes my 8-year old self proud)
+- 🔭 **I’m currently working on:** fun data science projects on products at Microsoft
+- 🌱 **I’m currently learning:** astronomy, psychology, environmental science, and network theory
+- 👯 **I’m looking to collaborate on:** pro-environmental or social justice projects
+- 💬 **Ask me about:** Anything
+- 😄 **Pronouns:** He/him
+- ⚡ **Fun fact:** My home office is a treehouse (this makes my 8-year old self proud)
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/macalusojeff/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
