@@ -1,6 +1,8 @@
 ### Well howdy
 
-This is my github repo where I keep some of my personal projects and presentations while exploring various topics in Data science.![](https://komarev.com/ghpvc/?username=JeffMacaluso&style=flat-square)
+![](https://komarev.com/ghpvc/?username=JeffMacaluso&style=flat-square)
+
+This is my personal account where I keep some of my personal projects, commonly used code, and presentations while exploring various topics in data science and machine learning.
 
 - 🔭 **I’m currently working on:** fun data science projects on products at Microsoft
 - 🌱 **I’m currently learning:** astronomy, psychology, environmental science, and network theory
