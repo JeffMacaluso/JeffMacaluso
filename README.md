@@ -9,7 +9,7 @@ This is my personal account where I keep some of my personal projects, commonly 
 - 👯 **I’m looking to collaborate on:** pro-environmental or social justice projects
 - 💬 **Ask me about:** Anything
 - 😄 **Pronouns:** He/him
-- ⚡ **Fun fact:** My home office for a while was a treehouse (this makes my 8-year old self proud)
+- ⚡ **Fun fact:** My home office was a treehouse for a while (this makes my 8-year old self proud)
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/macalusojeff/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
