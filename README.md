@@ -5,11 +5,11 @@
 This is my personal account where I keep some of my personal projects, commonly used code, and presentations while exploring various topics in data science and machine learning.
 
 - 🔭 **I’m currently working on:** fun data science projects on products at Microsoft
-- 🌱 **I’m currently learning:** astronomy, psychology, environmental science, and network theory
+- 🌱 **I’m currently learning:** astronomy, psychology, environmental science, and music theory
 - 👯 **I’m looking to collaborate on:** pro-environmental or social justice projects
 - 💬 **Ask me about:** Anything
 - 😄 **Pronouns:** He/him
-- ⚡ **Fun fact:** My home office is a treehouse (this makes my 8-year old self proud)
+- ⚡ **Fun fact:** My home office for a while was a treehouse (this makes my 8-year old self proud)
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/macalusojeff/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
