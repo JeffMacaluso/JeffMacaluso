@@ -1,3 +1,7 @@
+# DEPRECATED
+
+This account is no longer active. Please visit [my new account](https://github.com/MacalusoJeff) for my latest work. Remember to download the new recovery codes when you set up 2FA and to set up cloud backup for 2FA 🙃
+
 ### Well howdy
 
 ![](https://komarev.com/ghpvc/?username=JeffMacaluso&style=flat-square)
@@ -11,5 +15,6 @@ This is my personal account where I keep some of my personal projects, commonly 
 - 😄 **Pronouns:** He/him
 - ⚡ **Fun fact:** My home office was a treehouse for a while (this makes my 8-year old self proud), and I live in the town where Twin Peaks was filmed
 
-### Connect with me:
+### Connect with me
+
 <a href="https://www.linkedin.com/in/macalusojeff/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
